@@ -1,0 +1,4 @@
+vista\VentanaContacto.class
+com\mycompany\sistemacontactos\SistemaContactos.class
+controlador\MainContacto.class
+modelo\Contacto.class
